@@ -1,0 +1,41 @@
+body{
+	font-family: sans-serif;
+	font-size: 16px;
+	box-sizing: border-box;
+
+	
+}
+header .container{
+	background-color: #2F1234;
+	height: 120px;
+	border-radius: 0px;
+	width: 100%;
+
+}
+div h1{
+	color: yellow;
+}
+.container p{
+	font-weight: bold;
+	font-size: 3em;
+}
+div.Chicken div,div#Sushi div,div#Beef div{
+	background-color: beige;
+	margin-bottom: 0px;
+
+}
+#nav-list a{
+	background-color: cyan;
+	font-size: 2em;
+	text-align: center;
+}
+#nav-list hr{
+	
+
+	background-color: black;
+	margin:0;
+	padding: 0;
+}
+#content, #content-2, #content-1{
+	margin-bottom: 5px;
+}
